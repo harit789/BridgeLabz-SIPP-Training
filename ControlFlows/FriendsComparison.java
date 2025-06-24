@@ -40,6 +40,5 @@ public class FriendsComparison {
         System.out.println("The youngest friend is: " + youngest);
         System.out.println("The tallest friend is: " + tallest);
 
-        scanner.close();
     }
 }

@@ -24,6 +24,5 @@ public class FizzBuzz {
             }
         }
 
-        scanner.close();
     }
 }
